@@ -1,0 +1,58 @@
+[
+    {
+        "id": "TCK-101",
+        "title": "Login fails on Safari browser",
+        "status": "open",
+        "priority": "high",
+        "createdAt": "2025-01-04T10:30:00Z"
+    },
+    {
+        "id": "TCK-102",
+        "title": "UI breaks on mobile view",
+        "status": "in-progress",
+        "priority": "medium",
+        "createdAt": "2025-01-05T08:15:00Z"
+    },
+    {
+        "id": "TCK-103",
+        "title": "API timeout on dashboard",
+        "status": "closed",
+        "priority": "high",
+        "createdAt": "2025-01-01T14:45:00Z"
+    },
+    {
+        "id": "TCK-104",
+        "title": "Dark mode preference not persisting",
+        "status": "open",
+        "priority": "low",
+        "createdAt": "2025-01-06T11:00:00Z"
+    },
+    {
+        "id": "TCK-105",
+        "title": "Search results mismatch for filters",
+        "status": "in-progress",
+        "priority": "medium",
+        "createdAt": "2025-01-03T09:20:00Z"
+    },
+    {
+        "id": "TCK-106",
+        "title": "User session expires too early",
+        "status": "open",
+        "priority": "high",
+        "createdAt": "2025-01-02T16:10:00Z"
+    },
+    {
+        "id": "TCK-107",
+        "title": "Notifications are delayed",
+        "status": "closed",
+        "priority": "low",
+        "createdAt": "2024-12-30T18:40:00Z"
+    },
+    {
+        "id": "TCK-108",
+        "title": "Accessibility contrast issue in header",
+        "status": "open",
+        "priority": "medium",
+        "createdAt": "2025-01-06T07:55:00Z"
+    }
+]
